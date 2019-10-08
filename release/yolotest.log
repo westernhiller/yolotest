@@ -1,0 +1,63 @@
+﻿  dialog.cpp
+  utils.cpp
+d:\projects\yolotest\utils.cpp(39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\yolotest\utils.cpp(48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\projects\yolotest\include\yolo_v2_class.hpp(75): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(151): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(634): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(657): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(659): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(675): warning C4267: 'argument': conversion from 'size_t' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(820): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(821): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(822): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(823): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(824): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(825): warning C4305: '=': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ] (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(878): warning C4018: '>': signed/unsigned mismatch (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(879): warning C4018: '>': signed/unsigned mismatch (compiling source file dialog.cpp)
+d:\projects\yolotest\include\yolo_v2_class.hpp(911): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data (compiling source file dialog.cpp)
+d:\projects\yolotest\dialog.cpp(82): warning C4100: 'fprob': unreferenced formal parameter
+d:\projects\yolotest\dialog.cpp(82): warning C4100: 'classid': unreferenced formal parameter
+qtmain.lib(qtmain_win.obj) : warning LNK4099: PDB 'qtmain.pdb' was not found with 'qtmain.lib(qtmain_win.obj)' or at 'D:\Projects\yolotest\release\qtmain.pdb'; linking object as if no debug info
+  yolotest.vcxproj -> D:\Projects\yolotest\release\yolotest.exe

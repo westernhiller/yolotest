@@ -1,0 +1,9 @@
+
+*.ipch
+*.db
+.vs/yolotest/v15/.suo
+.vs/yolotest/v16/.suo
+*.obj
+*.tlog
+*.dll
+*.dat

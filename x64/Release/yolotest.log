@@ -1,0 +1,305 @@
+﻿  Generate moc_predefs.h
+  Uic'ing dialog.ui...
+  Moc'ing canvas.h...
+  Moc'ing dialog.h...
+  Moc'ing yolodetector.h...
+  canvas.cpp
+  dialog.cpp
+  main.cpp
+  utils.cpp
+  yolodetector.cpp
+  moc_canvas.cpp
+  moc_dialog.cpp
+  moc_yolodetector.cpp
+D:\Projects\yolotest\canvas.cpp(39,43): warning C4100:  “event”: 未引用的形参
+D:\Projects\yolotest\include\yolo_v2_class.hpp(75,19): warning C4305:  “初始化”: 从“double”到“float”截断 (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(151,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\utils.cpp(39,80): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\yolotest\utils.cpp(47,80): warning C4267:  “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(75,19): warning C4305:  “初始化”: 从“double”到“float”截断 (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         ] (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(151,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(878,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(879,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(911,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(75,19): warning C4305:  “初始化”: 从“double”到“float”截断 (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         ] (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(878,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(879,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(911,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(151,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         ] (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(878,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(879,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(911,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 main.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(75,19): warning C4305:  “初始化”: 从“double”到“float”截断 (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(151,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         ] (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(75,19): warning C4305:  “初始化”: 从“double”到“float”截断 (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(878,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(879,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(911,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 yolodetector.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(151,1): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(634,1): warning C4267:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(657,1): warning C4267:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(659,1): warning C4267:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:  “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:             _Tp=int
+D:\Projects\yolotest\include\yolo_v2_class.hpp(675,1): warning C4267:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\dialog.cpp(52,72): warning C4100:  “fprob”: 未引用的形参
+D:\Projects\yolotest\dialog.cpp(52,57): warning C4100:  “classid”: 未引用的形参
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(820,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(821,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(822,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(823,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(824,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:  “=”: 从“double”到“_Tp”截断
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         with
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         [
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:             _Tp=float
+D:\Projects\yolotest\include\yolo_v2_class.hpp(825,1): warning C4305:         ] (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(878,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(879,50): warning C4018:  “>”: 有符号/无符号不匹配 (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\include\yolo_v2_class.hpp(911,1): warning C4267:  “=”: 从“size_t”转换到“int”，可能丢失数据 (编译源文件 Release\moc_dialog.cpp)
+D:\Projects\yolotest\yolodetector.cpp(97,38): warning C4018:  “>”: 有符号/无符号不匹配
+D:\Projects\yolotest\yolodetector.cpp(108,34): warning C4018:  “>”: 有符号/无符号不匹配
+moc_dialog.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+moc_yolodetector.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+dialog.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+main.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+utils.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+yolodetector.obj : error LNK2001: 无法解析的外部符号 "private: void __cdecl cv::String::deallocate(void)" (?deallocate@String@cv@@AEAAXXZ)
+utils.obj : error LNK2019: 无法解析的外部符号 "private: char * __cdecl cv::String::allocate(unsigned __int64)" (?allocate@String@cv@@AEAAPEAD_K@Z)，该符号在函数 "public: __cdecl cv::Mat::Mat(int,int,int,void *,unsigned __int64)" (??0Mat@cv@@QEAA@HHHPEAX_K@Z) 中被引用
+utils.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHAEBVString@1@PEBD1H@Z)，该符号在函数 "public: __cdecl cv::Mat::Mat(int,int,int,void *,unsigned __int64)" (??0Mat@cv@@QEAA@HHHPEAX_K@Z) 中被引用
+yolodetector.obj : error LNK2019: 无法解析的外部符号 "void __cdecl cv::rectangle(class cv::Mat &,class cv::Rect_<int>,class cv::Scalar_<double> const &,int,int,int)" (?rectangle@cv@@YAXAEAVMat@1@V?$Rect_@H@1@AEBV?$Scalar_@N@1@HHH@Z)，该符号在函数 "private: void __cdecl YoloDetector::drawBox(class cv::Mat &,struct bbox_t,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class cv::Scalar_<double>)" (?drawBox@YoloDetector@@AEAAXAEAVMat@cv@@Ubbox_t@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$Scalar_@N@3@@Z) 中被引用
+release\\yolotest.exe : fatal error LNK1120: 4 个无法解析的外部命令

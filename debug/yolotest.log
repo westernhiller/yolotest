@@ -1,0 +1,9 @@
+﻿  Moc'ing canvas.h...
+  Moc'ing dialog.h...
+  moc_canvas.cpp
+  moc_dialog.cpp
+  canvas.cpp
+  dialog.cpp
+  main.cpp
+D:\Projects\yolotest\canvas.cpp(42,43): warning C4100:  “event”: 未引用的形参
+  yolotest.vcxproj -> D:\Projects\yolotest\debug\yolotest.exe
